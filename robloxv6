@@ -5,7 +5,7 @@ local UserInputService = game:GetService("UserInputService")
 local HttpService = game:GetService("HttpService")
 
 -- ================= KONFIGURASI =================
-local DISCORD_LINK = "https://discord.gg/YOUR_LINK"
+local DISCORD_LINK = "https://discord.com/invite/KWRuqUxt"
 local GAS_URL = "https://script.google.com/macros/s/AKfycbyQ6kuVfDO_2LS7TYfJdvgwBaRKo3YskR5AXIqXQI1rDTy3l2uHauuFjUakfJUX4WXvvA/exec"
 local VIP_SCRIPT_URL = "https://pastebin.com/raw/UNNHEtVH"
 
