@@ -6,7 +6,7 @@ local HttpService = game:GetService("HttpService")
 
 -- ================= KONFIGURASI =================
 local DISCORD_LINK = "https://discord.com/invite/KWRuqUxt"
-local GAS_URL = "https://script.google.com/macros/s/AKfycbyQ6kuVfDO_2LS7TYfJdvgwBaRKo3YskR5AXIqXQI1rDTy3l2uHauuFjUakfJUX4WXvvA/exec"
+local GAS_URL = "https://script.google.com/macros/s/AKfycbzOdKM73PoYuVd-K8x09LC-WGHzIHi1s5wFU5qgYlwwImLf_hVg4fjNDZGP1J2lP4hulA/exec"
 local VIP_SCRIPT_URL = "https://pastebin.com/raw/UNNHEtVH"
 
 -- ================= VARIABEL HEARTBEAT =================
